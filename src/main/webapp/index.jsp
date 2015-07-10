@@ -7,7 +7,7 @@
     <title>WildFly::Cookbook</title>
 </head>
 <body>
-<b>We need top change some code here!</b>
+<b>We need to change some code here!</b>
 </body>
 </html>
 	
